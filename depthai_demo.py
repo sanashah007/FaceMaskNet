@@ -23,7 +23,7 @@ if platform.machine() not in ['armv6l', 'aarch64']:
 
 is_rpi = platform.machine().startswith('arm') or platform.machine().startswith('aarch64')
 global args, cnn_model2
-
+# test
 
 class DepthAI:
     global is_rpi
