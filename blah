@@ -1,0 +1,3 @@
+  else:
+                     GPIO.output(18,False)
+                     GPIO.output(21, False)
